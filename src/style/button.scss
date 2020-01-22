@@ -1,0 +1,7 @@
+.btn {
+    @include base-btn();
+    background-color: darkred;
+    font-family: Shadows Into Light;
+    font-size: 1em;
+} 
+
